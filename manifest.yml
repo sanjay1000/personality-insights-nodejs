@@ -1,6 +1,6 @@
 ---
 applications:
-- name: personality-insights-livedemo
+- name: ss-personality-insights-livedemo
   command: npm start
   path: .
   memory: 512M
